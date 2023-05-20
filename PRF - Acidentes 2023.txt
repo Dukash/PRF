@@ -1,5 +1,3 @@
-%_horario_formula_excel_:_=SEHORAA1<12;_"Manha";_SEHORAA1>18;_"Noite";_"Tarde"
-
 @relation PRF
 
 @attribute dia_semana {segunda_feira,terca_feira,quarta_feira,quinta_feira,sexta_feira,sabado,domingo}
